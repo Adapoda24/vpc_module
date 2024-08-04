@@ -1,0 +1,15 @@
+variable "sg" {}
+variable "key" {}
+variable "vpc" {}
+variable "vpc_block" {}
+variable "route" {}
+variable "route_black" {}
+variable "sub1" {}
+variable "sub1_block" {}
+variable "sub1_zone" {}
+variable "sub2" {}
+variable "sub2_block" {}
+variable "sub2_zone" {}
+variable "tag" {}
+variable "env" {}
+variable "igw" {}
